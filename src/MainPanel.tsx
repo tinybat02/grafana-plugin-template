@@ -1,8 +1,8 @@
 import React, { PureComponent } from 'react';
 import { PanelProps } from '@grafana/data';
-import { MapOptions } from 'types';
+import { PanelOptions } from 'types';
 
-interface Props extends PanelProps<MapOptions> {}
+interface Props extends PanelProps<PanelOptions> {}
 
 export class MainPanel extends PureComponent<Props> {
   render() {

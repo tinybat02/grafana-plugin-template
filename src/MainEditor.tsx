@@ -2,9 +2,9 @@ import React, { PureComponent } from 'react';
 // import { FormField } from '@grafana/ui';
 import { PanelEditorProps } from '@grafana/data';
 
-import { MapOptions } from './types';
+import { PanelOptions } from './types';
 
-export class MainEditor extends PureComponent<PanelEditorProps<MapOptions>> {
+export class MainEditor extends PureComponent<PanelEditorProps<PanelOptions>> {
   render() {
     return (
       <div className="section gf-form-group">

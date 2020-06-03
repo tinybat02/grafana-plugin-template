@@ -1,7 +1,7 @@
-export interface MapOptions {
+export interface PanelOptions {
 
 }
 
-export const defaults: MapOptions = {
+export const defaults: PanelOptions = {
 
 };

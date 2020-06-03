@@ -1,14 +1,14 @@
 {
   "type": "panel",
-  "name": "World Map",
-  "id": "id-world-map-openlayers",
+  "name": "Plugin Template",
+  "id": "id-grafana-template",
   "dataFormats": ["table"],
   "info": {
-    "description": "World Map using OpenLayers",
+    "description": "Grafana Template",
     "author": {
       "name": "Nam Le"
     },
-    "keywords": ["openlayers", "world map"],
+    "keywords": [],
     "screenshots": [],
     "version": "%VERSION%",
     "updated": "%TODAY%"
