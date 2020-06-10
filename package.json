@@ -1,7 +1,7 @@
 {
-  "name": "world-map-openlayers",
+  "name": "es-gauge",
   "version": "1.0.0",
-  "description": "World Map Openlayers",
+  "description": "ES Gauge",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
     "test": "grafana-toolkit plugin:test",
@@ -15,5 +15,7 @@
     "@grafana/toolkit": "next",
     "@grafana/ui": "next"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-circular-progressbar": "^2.0.3"
+  }
 }
