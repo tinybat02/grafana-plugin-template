@@ -1,7 +1,7 @@
 {
-  "name": "es-gauge",
+  "name": "grafana-template",
   "version": "1.0.0",
-  "description": "ES Gauge",
+  "description": "Grafana Template",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
     "test": "grafana-toolkit plugin:test",

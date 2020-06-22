@@ -1,10 +1,10 @@
 {
   "type": "panel",
-  "name": "ES Gauge",
-  "id": "id-grafana-es-gauge",
+  "name": "Sample",
+  "id": "id-grafana-sample",
   "dataFormats": ["table"],
   "info": {
-    "description": "ES Gauge",
+    "description": "Sample",
     "author": {
       "name": "Nam Le"
     },
