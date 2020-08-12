@@ -15,7 +15,5 @@
     "@grafana/toolkit": "next",
     "@grafana/ui": "next"
   },
-  "dependencies": {
-    "react-circular-progressbar": "^2.0.3"
-  }
+  "dependencies": {}
 }
